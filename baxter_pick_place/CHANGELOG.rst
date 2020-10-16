@@ -16,7 +16,7 @@ Changelog for package baxter_pick_place
 * Cleaning up development branch
 * Merged
 * Fixes for latest moveit version
-* Successfully tuned PIDs for ros_control joint_trajectory_controller. Working on collision issue
+* fullycharge tuned PIDs for ros_control joint_trajectory_controller. Working on collision issue
 * Created automatic pid tuning scripts
 
 0.1.0 (2013-09-19)
